@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import { Button } from 'ant-design-vue'
 </script>
 
 <template>
-  <Button type="primary">111</Button>
+  <!-- 路由视图占位 -->
+  <router-view></router-view>
 </template>
 
 <style scoped></style>
