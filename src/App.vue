@@ -1,9 +1,10 @@
 <script setup lang="ts">
+import MyLayout from '@/Layout/index.vue'
 </script>
 
 <template>
   <!-- 路由视图占位 -->
-  <router-view></router-view>
+   <MyLayout />
 </template>
 
 <style scoped></style>

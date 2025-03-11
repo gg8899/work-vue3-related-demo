@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import routes from 'virtual:generated-pages'
-console.log(routes);
+// console.log(routes);
 
 const router = createRouter({
   history: createWebHistory(),
